@@ -6,3 +6,7 @@ some interviews questions and answers
 this will also contains css 3 
 angular 10 
 angular 9 
+
+
+javascript
+
