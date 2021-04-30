@@ -1,3 +1,8 @@
 IT will contains all HTML5 Notes 
 some important tags here :
 some interviews questions and answers 
+
+
+this will also contains css 3 
+angular 10 
+angular 9 
